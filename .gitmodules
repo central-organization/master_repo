@@ -1,0 +1,3 @@
+[submodule "ci_repo"]
+	path = ci_repo
+	url = https://github.com/central-organization/ci_repo
