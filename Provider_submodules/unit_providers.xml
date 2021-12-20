@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Submodule_providers>
+    <Provider>
+        <Provider_name>Provider_name</Provider_name>
+        <GitHub_repository_name>provider_name_repo</GitHub_repository_name>
+        <Unofficial_Artifactory_repository_path>https://centralorg.jfrog.io/artifactory/Unofficial_provider_name/</Unofficial_Artifactory_repository_path>
+        <Official_Artifactory_repository_path>https://centralorg.jfrog.io/artifactory/Official_provider_name/</Official_Artifactory_repository_path>
+        <Units>
+            <Unit>Unit-A</Unit>
+            <Unit>Unit-B</Unit>
+            <Unit>Unit-C</Unit>
+        </Units>
+    </Provider>
+</Submodule_providers>
